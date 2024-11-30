@@ -9,3 +9,9 @@
     display: flex;
     justify-content: space-evenly;
 }
+.orbitron{
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
