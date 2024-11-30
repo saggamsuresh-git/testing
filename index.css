@@ -1,4 +1,11 @@
-.browsehappy{
-    color: rgb(241, 10, 10);
-    background-color: aquamarine;
+.heading{
+    /* color: red; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.contact-info{
+    display: flex;
+    justify-content: space-evenly;
 }
